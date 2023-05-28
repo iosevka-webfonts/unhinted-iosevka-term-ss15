@@ -1,4 +1,4 @@
-# Unhinted Iosevka Term SS15 WebFont 23.0.0
+# Unhinted Iosevka Term SS15 WebFont 24.0.0
 
 ## How to use
 
